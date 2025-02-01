@@ -1,8 +1,21 @@
-# React + Vite
+# 📝 Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient Todo List application built with **React.js** and **Tailwind CSS**. It allows you to manage your tasks seamlessly with features like **dark/light mode** toggle, **local storage** persistence, and more!
 
-Currently, two official plugins are available:
+## 🚀 Features
+- ➕ Add new tasks
+- ✏️ Update existing tasks
+- ❌ Delete tasks
+- ✅ Mark tasks as completed
+- 🔒 Persistent storage with local storage
+- 🌙🌞 Dark/Light mode toggle using **Context API**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Technologies Used
+- **React.js**
+- **Tailwind CSS**
+- **Context API**
+- **Local Storage**
+
+## 🔗 Website Preview
+
+To access the live website, visit [doobeedoo.netlify.app](https://doobeedoo.netlify.app/)
